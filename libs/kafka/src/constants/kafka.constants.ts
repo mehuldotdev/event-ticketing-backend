@@ -18,7 +18,7 @@ export const KAFKA_TOPICS = {
     // Ticket events
     TICKET_PURCHASED: "ticket.purchased",
     TICKET_CANCELLED: "ticket.cancelled",
-    TICKER_CHECKED_IN: "ticket.checked-in",
+    TICKET_CHECKED_IN: "ticket.checked-in",
 
     // Payment events
     PAYMENT_COMPLETED: "payment.completed",
